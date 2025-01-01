@@ -42,7 +42,7 @@ urlimg: 'https://Venky-Iyer.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "vvi4.jpg"
 
 # Plugins
 plugins:
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: venkat     # Default author for posts
 
 
 
