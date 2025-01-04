@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Publications"
+title: "Academics"
 subheadline: ""
-teaser: "Here is a list of my publications to date"
-permalink: "/publications/"
+teaser: "A brief overview of my academic journey"
+permalink: "/academics/"
 header:
-   image_fullwidth: "header_publications.jpg"
+   image_fullwidth: "header_academics.jpg"
 ---
 
 
